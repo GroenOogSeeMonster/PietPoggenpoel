@@ -1,0 +1,9 @@
+crewai
+yfinance
+pandas
+requests
+beautifulsoup4
+ta
+openai
+langchain
+
